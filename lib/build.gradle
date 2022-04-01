@@ -14,9 +14,9 @@ afterEvaluate {
                 from components.release
 
                 // You can then customize attributes of the publication as shown below.
-//                groupId = 'com.ke.mvvm.base'
-//                artifactId = 'mvvm.base'
-//                version = '1.0'
+                groupId = 'com.ke.jdaddresspicker.lib'
+                artifactId = 'jdaddresspicker.lib'
+                version = '1.0'
             }
             // Creates a Maven publication called “debug”.
             debug(MavenPublication) {
