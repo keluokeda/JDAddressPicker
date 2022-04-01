@@ -23,8 +23,8 @@ afterEvaluate {
                 // Applies the component for the debug build variant.
                 from components.debug
 
-                groupId = 'com.ke.mvvm.base'
-                artifactId = 'mvvm.base'
+                groupId = 'com.ke.jdaddresspicker.lib'
+                artifactId = 'jdaddresspicker.lib'
                 version = '1.0'
             }
         }
